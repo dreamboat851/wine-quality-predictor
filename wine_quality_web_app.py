@@ -2,7 +2,6 @@ import os
 import streamlit as st
 import joblib
 import numpy as np
-import pandas as pd
 import pickle
 
 def get_key(val,my_dict):
